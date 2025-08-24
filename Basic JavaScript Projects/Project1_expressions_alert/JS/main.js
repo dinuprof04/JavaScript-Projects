@@ -1,1 +1,2 @@
-document.write("Hello World!")
+const message = "Hello from JavaScript!";
+window.alert(message)
